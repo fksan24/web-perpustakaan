@@ -1,0 +1,9 @@
+Buat database dengan nama dbpustaka pada http://localhost/phpmyadmin/
+Import database dbpustaka.sql yg telah include dalam folder database
+
+==============================================================================================================
+1. Akses Halaman Utama : http://localhost/web-perpustakaan
+username : admin
+password : admin
+
+==============================================================================================================
